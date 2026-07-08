@@ -709,7 +709,8 @@ footer{
   }
 
   .hero-image img{
-    width:220px;
+    width:250px;
+    height:250px
   }
 
   .image-glow{
